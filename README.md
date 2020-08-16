@@ -30,3 +30,4 @@ kubectl delete -f specs/
 ```
 # K8s
 # K8s
+# K8s
