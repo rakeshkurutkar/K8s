@@ -29,3 +29,4 @@ kubectl exec -it app cat /data/out.txt
 kubectl delete -f specs/
 ```
 # K8s
+# K8s
